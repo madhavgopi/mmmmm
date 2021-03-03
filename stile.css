@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    font-style: italic;
+    background-color:#d37872;
+}
+
+.sp,
+.div {
+    margin: 20px;
+}
+
+img {
+    width: 10%;
+}
+
